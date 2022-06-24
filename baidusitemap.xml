@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://example.com/2022/06/24/Gradle-ERROR-%EF%BC%81%EF%BC%81%EF%BC%81%EF%BC%81/</loc>
+    <lastmod>2022-06-24</lastmod>
+  </url>
+  <url>
     <loc>http://example.com/2022/06/24/Gradle-%E5%88%B6%E4%BD%9C-jar-%E5%8C%85%E5%90%88%E5%B9%B6%E7%AC%AC%E4%B8%89%E6%96%B9-jar-%E5%8C%85/</loc>
     <lastmod>2022-06-24</lastmod>
   </url>
